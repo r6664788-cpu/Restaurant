@@ -1,0 +1,39 @@
+body{
+padding:50px;
+ cursor:pointer;
+
+}
+h1 {
+color: purple;
+box-shadow:12px +12px 8px black;
+}
+h2{
+color: red;
+text-shadow: +1px +2px 4px black
+}
+#img{
+border: 3.5px double red;
+border-radius: 50%
+}
+.p{
+border-bottom:2px solid black;
+width:240px;
+list-style:none
+}
+.title{
+border-bottom:3px solid green;
+width:240px;
+
+}
+
+.a{border-left:3px solid black;
+width:25px;
+padding:2px
+}
+
+.h{
+color:red
+}
+.ttt{
+padding-left:30px
+}
